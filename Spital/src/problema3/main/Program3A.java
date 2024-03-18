@@ -7,7 +7,7 @@ import problema3.classes.factory.factories.FabricaInfirmier;
 import problema3.classes.factory.factories.FabricaMedic;
 import problema3.classes.factory.interfaces.FabricaPersonal;
 
-public class Program {
+public class Program3A {
     private static void prelucrarePersonal(FabricaPersonal fabricaPersonal, String nume, String telefon, float salariu) {
         PersonalSpital personalSpital = fabricaPersonal.creazaPersonal(nume, telefon, salariu);
         personalSpital.afisareDetalii();

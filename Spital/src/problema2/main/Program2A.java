@@ -1,11 +1,10 @@
 package problema2.main;
 
-import problema2.classes.Asistent;
 import problema2.classes.PersonalSpital;
 import problema2.classes.factory.FabricaPersonal;
 import problema2.classes.factory.TipPersonal;
 
-public class Program {
+public class Program2A {
     public static void main(String[] args) {
         FabricaPersonal fabricaPersonal = new FabricaPersonal();
 

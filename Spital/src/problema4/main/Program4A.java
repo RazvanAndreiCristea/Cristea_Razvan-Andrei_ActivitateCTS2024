@@ -6,7 +6,7 @@ import problema4.classes.Reteta;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Program {
+public class Program4A {
     public static void main(String[] args) {
         List<Ingredient> listaIngrediente = new ArrayList<>();
 

@@ -3,7 +3,7 @@ package problema1.main;
 import problema1.classes.Pacient;
 import problema1.classes.PacientBuilder;
 
-public class Program {
+public class Program1A {
     public static void main(String[] args) {
         PacientBuilder pacientBuilder1 = new PacientBuilder("Ionescu", 22);
 
